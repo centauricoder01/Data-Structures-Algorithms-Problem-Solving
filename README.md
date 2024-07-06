@@ -189,11 +189,11 @@ AVL Trees - [Link](https://www.youtube.com/watch?v=vRwi_UcZGjU)
 # Homework
 
 ## Adhoc
-- [Multiply strings](https://leetcode.com/problems/multiply-strings/)
+- [Multiply strings](https://leetcode.com/problems/multiply-strings/) - SOLVED BUT NOT SATISFIED
 
 ## Arrays and Two pointers
-- [Sort colors - try with 2 pointers](https://leetcode.com/problems/sort-colors/)
-- [reverse words in a string](https://leetcode.com/problems/reverse-words-in-a-string/description/)
+- [Sort colors - try with 2 pointers](https://leetcode.com/problems/sort-colors/) - DONE
+- [reverse words in a string](https://leetcode.com/problems/reverse-words-in-a-string/description/) - DONE
 - [4sum - try with 2 points](https://leetcode.com/problems/4sum/)
 - [move zeros](https://leetcode.com/problems/move-zeroes/)
 - [Take K Character](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/description/)
